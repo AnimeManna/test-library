@@ -1,0 +1,9 @@
+.container {
+  width: 120px;
+  height: 40px;
+  text-transform: capitalize;
+  cursor: pointer;
+  border-radius: 8px;
+  background: transparent;
+  border: 1px solid black;
+}
